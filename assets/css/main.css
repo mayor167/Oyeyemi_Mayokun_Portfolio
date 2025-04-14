@@ -217,15 +217,15 @@ button:focus {
 }
 
 .social-icon li .twitter:hover {
-  background: #4A9CEC;
+  background: #BE3D2A;
 }
 
 .social-icon li .instagram:hover {
-  background: #D6274D;
+  background: #BE3D2A;
 }
 
 .social-icon li .linkedin:hover {
-  background: #1260A2;
+  background: #BE3D2A;
 }
 
 .social-icon li .google:hover {
@@ -442,7 +442,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   display: block;
   position: absolute;
   margin-top: 18px;
-  border-color: #00b4d9 !important;
+  border-color: #102E50 !important;
 }
 
 .timeline li:first-child i {
@@ -495,11 +495,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .top-nav-collapse .navbar-nav .nav-link:hover {
   cursor: pointer;
-  color: #00b4d9 !important;
+  color: #BE3D2A !important;
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-  color: #00b4d9 !important;
+  color: #BE3D2A !important;
 }
 
 .indigo {
@@ -512,7 +512,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .navbar-expand-lg .navbar-nav .nav-link i {
   font-size: 28px;
-  color: #00b4d9;
+  color: #BE3D2A !important;
   vertical-align: middle;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -520,7 +520,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link i:hover {
-  color: #21cff3;
+  color: #BE3D2A !important;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -541,7 +541,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .navbar-expand-lg .navbar-nav li a:hover,
 .navbar-expand-lg .navbar-nav li .active > a,
 .navbar-expand-lg .navbar-nav li a:focus {
-  color: #00b4d9;
+  color: #BE3D2A !important;
   outline: none;
 }
 
@@ -550,7 +550,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .navbar li.active a.nav-link {
-  color: #00b4d9;
+  color: #BE3D2A !important;
 }
 
 .dropdown-toggle::after {
@@ -939,11 +939,11 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .services-item .services-content h3 a {
   font-size: 18px;
   text-transform: uppercase;
-  color: #666;
+  color: #4b4b4b;
 }
 
 .services-item .services-content h3 a:hover {
-  color: #00b4d9;
+  color: #BE3D2A;
 }
 
 .services-item .services-content p {
@@ -1008,7 +1008,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .footer-right-contact .contact-icon {
-  background: #00b4d9;
+  background: #BE3D2A;
   color: #fff;
   border-radius: 50%;
   font-size: 20px;
